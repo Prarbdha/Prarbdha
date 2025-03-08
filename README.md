@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prarbdha
-- 👀 I’m interested in ui ux designing and cloud computing enthusiast
+- 👀 I’m interested in ui ux designing and cloud computing enthusiast , ai ml
 - 🌱 I’m currently learning cloud computin
 - 📫 insta id- @Prarbdha.isad
 
