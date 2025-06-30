@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Prarbdha
-- 👀 I’m interested in ui ux designing and cloud computing enthusiast , ai ml
-- 🌱 I’m currently learning cloud computin
-- 📫 insta id- @Prarbdha.isad
+Hello! I'm Prarbdha Isad,
+Currently in my Third Year at VIT Pune, pursuing Computer Science with a specialization in Artificial Intelligence. I have strong hands-on experience in C, C++, Java, SQL, and Machine Learning, along with growing expertise in emerging fields like AI, ML, and Blockchain.
+
+I'm passionate about entrepreneurship, leadership, and management, and actively involved in initiatives that combine technology and innovation to create meaningful impact. Always eager to learn, build, and collaborate on future-forward ideas!
 
 
 
